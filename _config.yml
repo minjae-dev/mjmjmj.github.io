@@ -91,9 +91,8 @@ content:
     content:
       - layout: left
         title: 클라우드 서비스 기초 활용(AWS)
-        caption: 2021/12 - 2022/1 (40시간)
+        caption: 2021.12 - 2022.01 (40시간)
         sub_title: (재)한국아이티교육재단 한국IT직업전문학교
-        link: http://job.ac.kr/curriculum/course-itprogram.asp?crcd=0
         quote: >
           Amazon Web Service를 알아보고 기능을 익히고 클라우드 컴퓨팅을 구현할 수 있습니다.
         description: | # this will include new lines to allow paragraphs
@@ -102,11 +101,36 @@ content:
           - web hosting service 구축(LAMP스택의 wordpress 서비스 구축, ddns를 통해 동적 IP에 domain name 연결, Lightsail 서비스 활용, S3를 활용한 static web hosting)
           - Cloudfront를 활용한 CNS 구축
       - layout: left
+        title: SQL을 활용한 데이터 분석
+        caption: 2020.10.26 - 2020.10.30  (40시간)
+        sub_title: 주식회사 케이티디에스
+        quote: >
+          데이터 분석을 위한 Oracle 활용방법 학습할 수 있습니다.
+        description: | # this will include new lines to allow paragraphs
+          SQL의 DDL, DML, DCL, TCL를 실습을 통해 습득할 수 있었습니다.
+      - layout: left
+        title: Docker IT 인프라 구축
+        caption: 2020.08.03 - 2020.08.07   (40시간)
+        sub_title: KT ds University
+        quote: >
+          Docker와 Docker Component 이해 및 환경설정을 통해 클라우드 환경에서의 Docker 운영을 익힐 수 있습니다.
+        description: | # this will include new lines to allow paragraphs
+          Docker와 컴포넌트의 이해를 하고, 이미지와 컨테이너를 생성 및 설정해보았습니다. Public 이미지와 Dockerfile을 이용하여 서버 구축을 하고 생성한 container의 통합 관리를 실습하였습니다. Multihost 환경에서의 Docker 운영도 경험하였습니다.   
+      - layout: left
+        title: 유전체 빅데이터 분석 예비전문가 과정(7기)
+        caption: 2019.06.24 ~ 2019.08.30
+        sub_title: 한국바이오협회
+        quote: >
+          유전체 빅데이터 분석을 위한 기초 지식 습득 및 실습, 분석프로젝트 진행하였습니다.
+        description: | # this will include new lines to allow paragraphs
+          WGS, WTS, microbiom 등의 기본 분석법을 익히고 실습하였습니다. 작업을 수행하는데 필요한 기초지식을 Python, Linux 강의를 수강하였습니다.
+          교육을 마치며 RNAseq, microbiom 분석 평가를 진행하였고, 우수상을 수상하였습니다.
+      - layout: left
         title: Kyunghee University
         caption: 2014 - 2020
         sub_title: Genetic Engineering
         quote: >
-          유전공학은 다양한 생명현상에 대한 기본적인 지식과 유전공학적 첨단기술을 습득하여 유전자, 단백질 등 다양한 생체 내의 유용물질 및 세포의 기능을 알아내고 그 활용기술을 개발하는 학문입니다.
+          유전공학은 생명현상에 대한 기본적인 지식과 유전공학적 첨단기술을 습득하여 생체 내의 유용물질 및 세포의 기능을 알아내고 그 활용기술을 개발하는 학문입니다.
         description: | # this will include new lines to allow paragraphs
           기초 생물학, 유기화학, 유전공학, 분자생물학, 생화확 지식을 습득하였습니다.           
           Bioinformatician 직무를 하는데 도메인 지식이 되었습니다.          
