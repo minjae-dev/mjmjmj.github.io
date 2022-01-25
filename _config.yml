@@ -53,24 +53,24 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
+#    layout: list # Type of content section (list/text)
+#    content:
+#      - layout: top-middle
+#        title: Super awesome project
+#        link: github.com/sproogen
+#        # link_text: Project Website
+#        additional_links:
+#          - title:  sproogen/modern-resume-theme
+#            icon: fab fa-github
+#            url: github.com/sproogen/modern-resume-theme
+#          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#          #   icon: fab fa-github
+#          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+#        quote: >
+#          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+#        description: | # this will include new lines to allow paragraphs
+#          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+ 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -84,6 +84,25 @@ content:
           개인의 유전체 특성에 따라 최적의 건강관리를 할 수 있는 다양한 형태의 솔루션을 제공합니다.
         description: | # this will include new lines to allow paragraphs
             유전체 분석회사 지니너스에서 Target-seq 파트를 담당하였습니다. 분석 알고리즘은 python을 메인으로 작성하였으며 모듈화를 통해 분석 S/W로 패키징하였습니다. 사내 LIMS와 연결하여 분석 자동화 구축을 하였고, 업무 프로세스 및 TAT관리에서 효율성을 높일 수 있었습니다. 나아가 사내 인프라 장애 대응 및 테스트 환경 구축, 분석 확장성을 목적으로 클라우드 환경(AWS, Azure)을 활용하여 클라우드 분석파이프라인 구축 경험도 있습니다. 국내 BIG5 병원에 분석 솔루션을 납품하기 위해 플래폼 설계에 참여하였고, docker orchestration을 활용하여 직접 납품 및 유지보수 업무도 진행하였습니다.
+
+  - title: Skills & Certificate
+    layout: list
+    content:
+    - layout: left
+      title: Backend
+      description: |
+        - Python, R
+    - layout: left
+      title: DevOps
+      description: |
+        - Docker, Singularity
+        - MariaDB, MySQL
+        - AWS: EC2, S3, Batch, Stepfunction, Lambda, Cloudfront, Lightsail, RDS
+        - Linux (CentOS, Ubuntu)
+    - layout: left
+      title: Certificate
+      description: |
+        - SQLD(SQL개발자)          
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
