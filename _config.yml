@@ -88,21 +88,21 @@ content:
   - title: Skills & Certificate
     layout: list
     content:
-    - layout: left
-      title: Backend
-      description: |
-        - Python, R
-    - layout: left
-      title: DevOps
-      description: |
-        - Docker, Singularity
-        - MariaDB, MySQL
-        - AWS: EC2, S3, Batch, Stepfunction, Lambda, Cloudfront, Lightsail, RDS
-        - Linux (CentOS, Ubuntu)
-    - layout: left
-      title: Certificate
-      description: |
-        - SQLD(SQL개발자)          
+      - layout: left
+        title: Backend
+        description: |
+          - Python, R
+      - layout: left
+        title: DevOps
+        description: |
+          - Docker, Singularity
+          - MariaDB, MySQL
+          - AWS: EC2, S3, Batch, Stepfunction, Lambda, Cloudfront, Lightsail, RDS
+          - Linux (CentOS, Ubuntu)
+      - layout: left
+        title: Certificate
+        description: |
+          - SQLD(SQL개발자)          
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
