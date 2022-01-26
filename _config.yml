@@ -109,7 +109,7 @@ content:
     content:
       - layout: left
         title: 클라우드 서비스 기초 활용(AWS)
-        caption: 2021.12 - 2022.01 (40시간)
+        caption: 2021.12 - 2022.01
         sub_title: (재)한국아이티교육재단 한국IT직업전문학교
         quote: >
           Amazon Web Service를 알아보고 기능을 익히고 클라우드 컴퓨팅 구현을 목표로 하는 교육입니다.
@@ -120,7 +120,7 @@ content:
           - Cloudfront를 활용한 CNS 구축
       - layout: left
         title: SQL을 활용한 데이터 분석
-        caption: 2020.10.26 - 2020.10.30  (40시간)
+        caption: 2020.10.26 - 2020.10.30
         sub_title: 주식회사 케이티디에스
         quote: >
           데이터 분석을 위한 Oracle 활용방법을 학습한 교육입니다.
@@ -128,7 +128,7 @@ content:
           SQL의 DDL, DML, DCL, TCL를 실습을 통해 습득할 수 있었습니다.
       - layout: left
         title: Docker IT 인프라 구축
-        caption: 2020.08.03 - 2020.08.07   (40시간)
+        caption: 2020.08.03 - 2020.08.07
         sub_title: KT ds University
         quote: >
           Docker와 Docker Component 이해 및 환경설정을 통해 클라우드 환경에서의 Docker 운영을 지향한 교육입니다.
