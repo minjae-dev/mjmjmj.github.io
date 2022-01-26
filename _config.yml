@@ -90,18 +90,18 @@ content:
     content:
       - layout: left
         title: Backend
-        description: |
+        description: | # this will include new lines to allow paragraphs
           - Python, R
       - layout: left
         title: DevOps
-        description: |
+        description: | # this will include new lines to allow paragraphs
           - Docker, Singularity
           - MariaDB, MySQL
           - AWS: EC2, S3, Batch, Stepfunction, Lambda, Cloudfront, Lightsail, RDS
           - Linux (CentOS, Ubuntu)
       - layout: left
         title: Certificate
-        description: |
+        description: | # this will include new lines to allow paragraphs
           - SQLD(SQL개발자)          
 
   - title: Education # Title for the section
