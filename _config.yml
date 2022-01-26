@@ -48,7 +48,7 @@ linkedin_username: jameswgrant
 # about_title: About Me
 about_profile_image: images/me.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Bioinformatics 분석 파이프라인 구축 및 DevOps 업무를 진행하고 있습니다. 현재는 데이터베이스 활용, 인프라 구축, CI 등에 대해 관심있습니다. 흥미를 역량으로 발현시키기 위해 꾸준히 시도 중입니다.
+  Bioinformatics 분석 파이프라인 구축 및 <mark>DevOps</mark> 업무를 진행하고 있습니다. 현재는 데이터베이스 활용, 인프라 구축, CI 등에 대해 관심있습니다. 흥미를 역량으로 발현시키기 위해 꾸준히 시도 중입니다.
   인생의 철학이 삶의 방향성이라고 생각합니다. “멈추지만 않으면 조금 느려도 괜찮다” 문장을 품고 실천하기 위해 노력 중입니다. 좋은 기회를 찾을 수 있고, 좋은 기회가 생겼을 때 준비된 사람이 되고 싶습니다.
 
 content:
