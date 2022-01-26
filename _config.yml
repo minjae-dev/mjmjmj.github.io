@@ -155,7 +155,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      저는 생활수영인, 구피 아빠로도 불리웁니다.
+      .
 
 
 # Footer
