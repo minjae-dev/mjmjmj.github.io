@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
   제가 가장 좋아하는 말은 'slow and steady wins the race.'입니다. 조금씩 쌓아가며 스토리를 만들어가는 중입니다.
 
 content:
-  - title: Projects # Title for the section
+#  - title: Projects # Title for the section
 #    layout: list # Type of content section (list/text)
 #    content:
 #      - layout: top-middle
