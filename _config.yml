@@ -118,6 +118,7 @@ content:
           - EC2에 ELB, Auto-scaling 세팅
           - web hosting service 구축(LAMP스택의 wordpress 서비스 구축, ddns를 통해 동적 IP에 domain name 연결, Lightsail 서비스 활용, S3를 활용한 static web hosting)
           - Cloudfront를 활용한 CNS 구축
+          - lambda와 SNS(Simple Notification Service)를 활용한 sms 
       - layout: left
         title: SQL을 활용한 데이터 분석
         caption: 2020.10.26 - 2020.10.30
