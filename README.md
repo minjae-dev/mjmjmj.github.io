@@ -1,5 +1,6 @@
-# 이력서
+# CV
 
+* [Link](https://minjaekkk.github.io)
 * [템플릿](https://github.com/sproogen/modern-resume-theme)
 
 ## 구동방법
@@ -8,3 +9,4 @@
 bundle install
 bundle exec jekyll serve
 ```
+
