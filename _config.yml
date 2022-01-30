@@ -107,7 +107,7 @@ content:
         title: Cancer genomics
         description: |
           - SNV, INDEL, CNV, Fusion, TMB, MSI 분석
-          - Ensembl vep, OncoKB, Clinvar, COSMIC, dbSNP, 1000 Genome, KOVA, KRGDB
+          - Annotation 활용: Ensembl vep, OncoKB, Clinvar, COSMIC, dbSNP, 1000 Genome, KOVA, KRGDB
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
